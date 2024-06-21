@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **pathakharsh495@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1uhNn0zz9dPvSEuYOrxT9C9CUp14LOEboJ3D-bq24GrI/edit?usp=sharing](https://docs.google.com/document/d/1uhNn0zz9dPvSEuYOrxT9C9CUp14LOEboJ3D-bq24GrI/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshkumarpathak1?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b4cgkvctxqzy9dsrebhw%2fua%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshkumarpathak1?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b4cgkvctxqzy9dsrebhw%2fua%3d%3d" height="30" width="40" /></a>
